@@ -1,0 +1,7 @@
+table, th, td {
+    min-width: 100%;
+    height: 5vh;
+    margin: 0vw;
+    position:relative; 
+    border: 1px solid;
+  }
